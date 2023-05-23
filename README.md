@@ -1,8 +1,9 @@
 ...~^♠︎^.Rainwizzard.com.^♠︎^~Plus Google.Meet
 
 ...~^♠︎^.Rainwizzard.com.^♠︎^~Plus Google.Meet
-
-
+                                                           < Camera From Youtube.com Feed Back >
+<div class="uvFeedbackFormscreenshot-card uvFeedbackFormbrowser-api-based-screenshot-card"><div class="uvFeedbackFormscreenshot-help-text">A screenshot will help us better understand your feedback. (optional)</div><input class="uvFeedbackFormfileUpload" type="file" accept="image/*"><div class="uvFeedbackFormscreenshot-capture-button"><sc-shared-material-button><div class="scSharedMaterialbuttoncontainer"><div class="scSharedMaterialbuttontouch-target" aria-hidden="true"></div><button class="scSharedMaterialbuttonroot scSharedMaterialbuttonleft-icon scSharedMaterialbuttonhairline" role="button" type="button" aria-label="Capture screenshot" aria-haspopup="false" style=""><span class="scSharedMaterialbuttonicon"><sc-shared-material-icon><div class="scSharedMaterialiconroot scSharedMaterialiconbaseline" role="img" aria-label="Capture screenshot" style="width: 18px; height: 18px;"><html-blob><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 10H6.5V7.5H9V6H5ZM15 16H19V12H17.5V14.5H15ZM8 21V19H4Q3.175 19 2.588 18.413Q2 17.825 2 17V5Q2 4.175 2.588 3.587Q3.175 3 4 3H20Q20.825 3 21.413 3.587Q22 4.175 22 5V17Q22 17.825 21.413 18.413Q20.825 19 20 19H16V21ZM4 17H20Q20 17 20 17Q20 17 20 17V5Q20 5 20 5Q20 5 20 5H4Q4 5 4 5Q4 5 4 5V17Q4 17 4 17Q4 17 4 17ZM4 17Q4 17 4 17Q4 17 4 17V5Q4 5 4 5Q4 5 4 5Q4 5 4 5Q4 5 4 5V17Q4 17 4 17Q4 17 4 17Z"></path></svg>
+</html-blob></div></sc-shared-material-icon></span><span>Capture screenshot</span><sc-shared-material-interaction-overlay><span></span><div class="scSharedMaterialinteractionoverlayroot scSharedMaterialinteractionoverlaylight-text" aria-hidden="true"><div class="scSharedMaterialinteractionoverlayhover-overlay"></div><div class="scSharedMaterialinteractionoverlaypressed-overlay"></div><div class="scSharedMaterialinteractionoverlayripple" style="top: calc(50% - 128px); left: calc(50% - 128px); transform: scale(1.56915);"></div></div></sc-shared-material-interaction-overlay></button></div></sc-shared-material-button></div></div>
 
 
 
